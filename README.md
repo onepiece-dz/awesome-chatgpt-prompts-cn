@@ -2,71 +2,47 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
 
-Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+欢迎阅读 "Awesome ChatGPT Prompts" 文档! 该文档提供了一批使用ChatGPT模型的prompt(以下翻译为:提示词).
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+[ChatGPT](https://chat.openai.com/chat) 是一个被[OpenAI](https://openai.com) 公司训练的大型语言模型，该模型主要用于产生自然语言文本. 通过向它提供一个提示词，模型会基于给定的提示词做出对应的回复，或者补全扩展提示词内容。
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+在本文档中，你可以找到用于ChatGPT的各种提示词的清单。你也可以[添加自己的提示词](https://github.com/onepiece-dz/awesome-chatgpt-prompts-cn/edit/main/README.md) 到这个清单中, 也可以尝试使用ChatGPT生成提示词。
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
-
-We hope you find these prompts useful and have fun using ChatGPT!
+本文档从下面的github仓库中克隆而来，如果要查看原始文档，可以链接跳转过去。
 
 **[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
 
 **[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
 
-**Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
-
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
-
-### Want to Write Effective Prompts?
-
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
-
+### 如果想要学习写出有效的提示词，可以参考下面的免费电子书?
 📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
 
-### Want to deploy your own Prompt App?
+### 想要使用ChatGPT?
+微信版ChatGPT即将上线，敬请期待
 
-The folks at [Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) built a framework to host and share your GPT apps. They're sponsoring this repo by giving you free (up to 500 calls per day) access to the latest GPT models.  
-
-👷‍♂️ **[Build your own GPT Prompt App](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
-
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
-
+### 想要学习如何通过ChatGPT变现?
+原作者写了一本书，可以参考：
 📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
 
 ---
 
-## Other Prompting Resources
+## 其他的的提示词资源
 
-### Want to Learn How to write image prompts for Midjourney AI?
+### Midjourney的image 提示词
 
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
+原作者写了一本书可以参考： **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
 
 📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
 
 ---
 
-### Using ChatGPT Desktop App
+### 使用AI生成提示词
 
-The _unofficial_ ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands, such as `/linux_terminal`. This feature eliminates the need to manually copy and paste prompts each time you want to use them.
-
-> **Desktop App is an unofficial [open source project by @lencx](https://github.com/lencx/ChatGPT). It's a simple wrapper for ChatGPT web interface with powerful extras.**
-
-<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
-
----
-
-### Create your own prompt using AI
-
-[Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
+[Merve Noyan](https://huggingface.co/merve) 创建了一个 [ChatGPT 提示词生成 App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), 通过这个APP你可以生成自己想要的角色定位的提示词，该APP使用了本文档的提示词清单作为训练样本。
   
 ---
 
-### Using prompts.chat
+### 如何使用本文档？
 
 [prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
 
@@ -74,24 +50,30 @@ The _unofficial_ ChatGPT desktop application provides a convenient way to access
 
 ---
 
-# Prompts
+# 提示词清单
 
-## Act as a Linux Terminal
+## 扮演linux终端
 Contributed by: [@f](https://github.com/f)
 Reference: https://www.engraved.blog/building-a-virtual-machine-inside/
-
+### 中文
+> 我希望你能像 Linux 终端一样工作。我会输入命令，你只能回复终端应该显示的内容。而且回复的内容以代码块的方式输出，不要对你的输出写任何解释，除非我让你这样做。当我需要用中文告诉你一些东西时，我会把文本放在花括号里 {像这样}。
+### 英文
 > I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
 
-## Act as an English Translator and Improver
+## 英语翻译并改进
 Contributed by: [@f](https://github.com/f)
 **Alternative to**: Grammarly, Google Translate
-
+### 中文
+> 我想让你担任中文翻译，我会用任何语言和你说话，你需要自动检测语言并翻译它，并且能够对输入文本进行拼写纠正和改进。翻译要保持原文意思不变，但可以更有文学性。请不要写解释，只翻译。
+### 英文
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is "istanbulu cok seviyom burada olmak cok guzel"
 
-## Act as `position` Interviewer
+## 担任职位面试官
 Contributed by: [@f](https://github.com/f) & [@iltekin](https://github.com/iltekin)
 **Examples**: Node.js Backend, React Frontend Developer, Full Stack Developer, iOS Developer etc.
-
+### 中文
+> 我希望你能担任面试官的角色。我将作为应聘者参加面试，你将为我准备职位面试问题。请你只以面试官的身份回答问题，不要一次性写下整段对话。我希望你只和我进行面试，一个一个问题地问，就像面试官一样，等待我的回答。我的第一句话是“你好”。
+### 英文
 > I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the `position` position. I want you to only reply as the interviewer. Do not write all the conservation at once. I want you to only do the interview with me. Ask me the questions and wait for my answers. Do not write explanations. Ask me the questions one by one like an interviewer does and wait for my answers. My first sentence is "Hi"
 
 ## Act as a JavaScript Console
@@ -102,7 +84,7 @@ Contributed by: [@omerimzali](https://github.com/omerimzali)
 Contributed by: [@f](https://github.com/f)
 > I want you to act as a text based excel. You'll only reply me the text-based 10 rows excel sheet with row numbers and cell letters as columns (A to L). First column header should be empty to reference row number. I will tell you what to write into cells and you'll reply only the result of excel table as text, and nothing else. Do not write explanations. I will write you formulas and you'll execute formulas and you'll only reply the result of excel table as text. First, reply me the empty sheet.
 
-## Act as a English Pronunciation Helper
+## 扮演英语发音助手
 Contributed by: [@f](https://github.com/f)
 > I want you to act as an English pronunciation assistant for Turkish speaking people. I will write you sentences and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentence but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. My first sentence is "how the weather is in Istanbul?"
 
@@ -110,7 +92,7 @@ Contributed by: [@f](https://github.com/f)
 Contributed by: [@ATX735](https://github.com/ATX735)
 > I want you to act as a spoken English teacher and improver. I will speak to you in English and you will reply to me in English to practice my spoken English. I want you to keep your reply neat, limiting the reply to 100 words. I want you to strictly correct my grammar mistakes, typos, and factual errors. I want you to ask me a question in your reply. Now let's start practicing, you could ask me a question first. Remember, I want you to strictly correct my grammar mistakes, typos, and factual errors.
 
-## Act as a Travel Guide
+## 担任导游角色
 Contributed by: [@koksalkapucuoglu](https://github.com/koksalkapucuoglu)
 > I want you to act as a travel guide. I will write you my location and you will suggest a place to visit near my location. In some cases, I will also give you the type of places I will visit. You will also suggest me places of similar type that are close to my first location. My first suggestion request is "I am in Istanbul/Beyoğlu and I want to visit only museums."
 
